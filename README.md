@@ -28,3 +28,12 @@ Host in REPLIT
 - Add **TOKEN** in `.env` file and for replit users in secrets
 - Add **prefix** and **developerID** in `config.json`
 - Run command: `node index.js`
+
+## Change Status
+- Goto `index.js` line 99 then you can change it to **idle**, **online**, **dnd** and **offline**.
+
+## Changing
+- Goto `commands folder` and change **Category 1** and **Category 2** into category name like `Fun`, `Info`, `Moderation` etc.
+
+## Changing message when bot is mentioned
+- Goto `index.js` and change from 34 line numberto 44 line.
